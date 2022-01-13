@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700&display=swap');
+*
+nav{
+  background: yellow;
+  padding: 10px 40px 10px 10px;
+  border: 2px solid #000;
+  border-left: 2px solid;
+  border-right: 2px solid;
+}
+h1{
+color: black;
+font-family: monospace;
+}
+b{
+color: black;
+font-size: 50px;
+}
+h2{
+color: black;
+font-family: cursive;
+}
+body {
+ background-image: url("white.jpg");
+ background-repeat: no-repeat, ;
+}
+.WebContainer{
+    width:100%;
+    min-width:1000px;
+    height:auto;
+}
